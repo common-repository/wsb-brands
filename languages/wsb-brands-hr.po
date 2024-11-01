@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WSB Woocommerce Brands\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-12 12:04+0000\n"
+"PO-Revision-Date: 2018-12-12 12:08+0000\n"
+"Last-Translator: brana <brana.hr@gmail.com>\n"
+"Language-Team: Croatian\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0"
+
+#: wsb-brands.php:86
+msgid ""
+"WSB Brands plugin can not work properly without Woocommerce installed and "
+"enabled!"
+msgstr ""
+"WSB Brands dodatak ne može raditi ako prethodno nije instaliran i uključen "
+"Woocommerce!"
+
+#: admin/class-wsb-brands-admin.php:92
+msgctxt "taxonomy general name"
+msgid "Brands"
+msgstr "Brendovi"
+
+#: admin/class-wsb-brands-admin.php:93
+msgctxt "taxonomy singular name"
+msgid "Brand"
+msgstr "Brend"
+
+#: admin/class-wsb-brands-admin.php:94
+msgid "Search Brands"
+msgstr "Pretraži brendove"
+
+#: admin/class-wsb-brands-admin.php:95
+msgid "All Brands"
+msgstr "Svi brendovi"
+
+#: admin/class-wsb-brands-admin.php:96
+msgid "Parent Brand"
+msgstr "Nadređeni brend"
+
+#: admin/class-wsb-brands-admin.php:97
+msgid "Parent Brand:"
+msgstr "Nadređeni brend:"
+
+#: admin/class-wsb-brands-admin.php:98
+msgid "Edit Brand"
+msgstr "Uredi brend"
+
+#: admin/class-wsb-brands-admin.php:99
+msgid "Update Brand"
+msgstr "Ažuriraj brend"
+
+#: admin/class-wsb-brands-admin.php:100
+msgid "Add New Brand"
+msgstr "Dodaj novi brend"
+
+#: admin/class-wsb-brands-admin.php:101
+msgid "New Brand Name"
+msgstr "Naziv brenda"
+
+#. The title to be displayed in the browser window for this page.
+#: admin/class-wsb-brands-admin.php:102
+msgid "Brands"
+msgstr "Brendovi"
+
+#: admin/class-wsb-brands-admin.php:103
+msgid "No brands found"
+msgstr "Nisu pronađeni brendovi"
+
+#: admin/class-wsb-brands-admin.php:104
+msgid "Back to Brands"
+msgstr "Povratak na brendove"
+
+#: admin/class-wsb-brands-admin.php:105
+msgid "View Brand"
+msgstr "Vidi brend"
+
+#: admin/class-wsb-brands-admin.php:114
+msgctxt "taxonomy general name"
+msgid "Manufacturers"
+msgstr "Proizvođači"
+
+#: admin/class-wsb-brands-admin.php:115
+msgctxt "taxonomy singular name"
+msgid "Manufacturer"
+msgstr "Proizvođač"
+
+#: admin/class-wsb-brands-admin.php:116
+msgid "Search Manufacturers"
+msgstr "Pretraži proizvođače"
+
+#: admin/class-wsb-brands-admin.php:117
+msgid "All Manufacturers"
+msgstr "Svi proizvođači"
+
+#: admin/class-wsb-brands-admin.php:118
+msgid "Parent Manufacturer"
+msgstr "Nadređeni proizvođač"
+
+#: admin/class-wsb-brands-admin.php:119
+msgid "Parent Manufacturer:"
+msgstr "Nadređeni proizvođač:"
+
+#: admin/class-wsb-brands-admin.php:120
+msgid "Edit Manufacturer"
+msgstr "Uredi proizvođača"
+
+#: admin/class-wsb-brands-admin.php:121
+msgid "Update Manufacturer"
+msgstr "Ažuriraj proizvođača"
+
+#: admin/class-wsb-brands-admin.php:122
+msgid "Add New Manufacturer"
+msgstr "Dodaj proizvođača"
+
+#: admin/class-wsb-brands-admin.php:123
+msgid "New Manufacturer Name"
+msgstr "Ime novog proizvođača"
+
+#: admin/class-wsb-brands-admin.php:124
+msgid "Manufacturers"
+msgstr "Proizvođači"
+
+#: admin/class-wsb-brands-admin.php:125
+msgid "No Manufacturers found"
+msgstr "Nema proizvođača"
+
+#: admin/class-wsb-brands-admin.php:126
+msgid "Back to Manufacturers"
+msgstr "Povratak na proizvođače"
+
+#: admin/class-wsb-brands-admin.php:127
+msgid "View Manufacturer"
+msgstr "Vidi proizvođača"
+
+#: admin/class-wsb-brands-admin.php:132
+msgctxt "slug"
+msgid "brands"
+msgstr "brendovi"
+
+#: admin/class-wsb-brands-admin.php:138
+msgctxt "slug"
+msgid "manufacturers"
+msgstr "proizvodjaci"
+
+#: admin/class-wsb-brands-admin.php:179
+msgid "Select Brand"
+msgstr "Odaberi brend"
+
+#: admin/class-wsb-brands-admin.php:182
+msgid "Select Manufacturer"
+msgstr "Odaberi proizvođača"
+
+#: admin/class-wsb-brands-admin.php:239 admin/class-wsb-brands-admin.php:274
+#: admin/class-wsb-brands-admin.php:658
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/class-wsb-brands-admin.php:244 admin/class-wsb-brands-admin.php:285
+msgid "Add Logo"
+msgstr "Dodaj logo"
+
+#: admin/class-wsb-brands-admin.php:245 admin/class-wsb-brands-admin.php:286
+msgid "Remove Logo"
+msgstr "Izbriši logo"
+
+#: admin/class-wsb-brands-admin.php:251 admin/class-wsb-brands-admin.php:293
+#: public/class-wsb-brands-public.php:433
+msgid "Website"
+msgstr "Web stranica"
+
+#: admin/class-wsb-brands-admin.php:253 admin/class-wsb-brands-admin.php:296
+msgid "Enter full url (Example: http://www.google.com)"
+msgstr "Unesite punu adresu (Primjer: http://www.google.com)"
+
+#: admin/class-wsb-brands-admin.php:364
+msgid "General settings"
+msgstr "Opće postavke"
+
+#: admin/class-wsb-brands-admin.php:371
+msgid "Main term"
+msgstr "Glavni termin (izraz)"
+
+#: admin/class-wsb-brands-admin.php:374
+msgid "Choose preferred term to use on the website."
+msgstr "Odaberite izraz koji želite koristiti na svim stranicama."
+
+#: admin/class-wsb-brands-admin.php:377
+msgid "Brand"
+msgstr "Brend"
+
+#: admin/class-wsb-brands-admin.php:378
+msgid "Manufacturer"
+msgstr "Proizvođač"
+
+#: admin/class-wsb-brands-admin.php:383
+msgid "Show in cart"
+msgstr "Prikaži u košarici"
+
+#: admin/class-wsb-brands-admin.php:386
+msgid "Show product brand in the cart?"
+msgstr "Prikazati brend proizvoda u košarici?"
+
+#: admin/class-wsb-brands-admin.php:389
+msgid "No"
+msgstr "Ne"
+
+#: admin/class-wsb-brands-admin.php:390
+msgid "Yes"
+msgstr "Da"
+
+#: admin/class-wsb-brands-admin.php:407 admin/class-wsb-brands-admin.php:577
+msgid "Show Brand"
+msgstr "Prikaži brend"
+
+#: admin/class-wsb-brands-admin.php:408
+msgid "Brand info tab"
+msgstr "Brend info tab"
+
+#: admin/class-wsb-brands-admin.php:411 admin/class-wsb-brands-admin.php:581
+msgid "Show Manufacturer"
+msgstr "Prikaži proizvođača"
+
+#: admin/class-wsb-brands-admin.php:412
+msgid "Manufacturer info tab"
+msgstr "Info tab proizvođača"
+
+#: admin/class-wsb-brands-admin.php:417
+msgid "Single product options"
+msgstr "Postavke stranice proizvoda"
+
+#: admin/class-wsb-brands-admin.php:427
+msgid "Show on a single product page"
+msgstr "Prikaži na stranici proizvoda"
+
+#: admin/class-wsb-brands-admin.php:432 admin/class-wsb-brands-admin.php:602
+msgid "None"
+msgstr "Ništa"
+
+#: admin/class-wsb-brands-admin.php:433 admin/class-wsb-brands-admin.php:601
+msgid "Name only"
+msgstr "Samo naziv"
+
+#: admin/class-wsb-brands-admin.php:434
+msgid "Logo only"
+msgstr "Samo logotip"
+
+#: admin/class-wsb-brands-admin.php:435 admin/class-wsb-brands-admin.php:600
+msgid "Name with link"
+msgstr "Naziv s linkom"
+
+#: admin/class-wsb-brands-admin.php:436
+msgid "Logo with link"
+msgstr "Logotip s linkom"
+
+#: admin/class-wsb-brands-admin.php:440 admin/class-wsb-brands-admin.php:619
+msgid "Show label"
+msgstr "Prikaži oznaku"
+
+#: admin/class-wsb-brands-admin.php:443
+msgid "Show label next to the name or logo"
+msgstr "Prikaži oznaku kraj logotipa ili naziva"
+
+#: admin/class-wsb-brands-admin.php:447 admin/class-wsb-brands-admin.php:512
+msgid "Logo height"
+msgstr "Visina logotipa"
+
+#: admin/class-wsb-brands-admin.php:449
+msgid "Logo height on single product page (in pixels)"
+msgstr "Visina logotipa na stranici proizvoda"
+
+#: admin/class-wsb-brands-admin.php:455 admin/class-wsb-brands-admin.php:606
+msgid "Display position"
+msgstr "Mjesto za prikaz"
+
+#: admin/class-wsb-brands-admin.php:458
+msgid "Where to show the brand/manufacturer on single product page?"
+msgstr "Gdje prikazati brend/proizvođača na stranici proizvoda?"
+
+#: admin/class-wsb-brands-admin.php:461
+msgid "After short description"
+msgstr "Poslije kratkog opisa"
+
+#: admin/class-wsb-brands-admin.php:462
+msgid "After Add To Cart"
+msgstr "Poslije Dodaj u košaricu"
+
+#: admin/class-wsb-brands-admin.php:463
+msgid "After Meta"
+msgstr "Poslije Meta podataka"
+
+#: admin/class-wsb-brands-admin.php:464
+msgid "After sharing"
+msgstr "Nakon opcija dijeljenja"
+
+#: admin/class-wsb-brands-admin.php:472
+msgid "Show tab with details on single product page"
+msgstr "Prikaži tab s detaljima na stranici proizvoda"
+
+#: admin/class-wsb-brands-admin.php:489
+msgid "Brand page options"
+msgstr "Postavke stranice brenda"
+
+#: admin/class-wsb-brands-admin.php:493
+msgid "Manufacturer page options"
+msgstr "Postavke stranice proizvođača"
+
+#: admin/class-wsb-brands-admin.php:505
+msgid "Show logo"
+msgstr "Prikaži logo"
+
+#: admin/class-wsb-brands-admin.php:508
+msgid "Show logo in the archive header"
+msgstr "Prikaži logo u zaglavlju arhive"
+
+#: admin/class-wsb-brands-admin.php:514
+msgid "Logo height on archive page (in pixels)"
+msgstr "Visina logotipa na stranici arhive (u pikselima)"
+
+#: admin/class-wsb-brands-admin.php:520
+msgid "Logo position"
+msgstr "Pozicija logotipa"
+
+#: admin/class-wsb-brands-admin.php:523
+msgid "Position for logo on archive page"
+msgstr "Pozicija logotipa u odnosu na naslov stranice"
+
+#: admin/class-wsb-brands-admin.php:526
+msgid "Right"
+msgstr "Desno"
+
+#: admin/class-wsb-brands-admin.php:527
+msgid "Left"
+msgstr "Lijevo"
+
+#: admin/class-wsb-brands-admin.php:532
+msgid "Show page title"
+msgstr "Prikaži naziv stranice"
+
+#: admin/class-wsb-brands-admin.php:535
+msgid "Show title in a page header"
+msgstr "Prikaži naziv u zaglavlju stranice"
+
+#: admin/class-wsb-brands-admin.php:539
+msgid "Header background"
+msgstr "Pozadina zaglavlja"
+
+#: admin/class-wsb-brands-admin.php:542
+msgid "Background of the page header"
+msgstr "Pozadina zaglavlja stranice"
+
+#: admin/class-wsb-brands-admin.php:548
+msgid "Header border thickness"
+msgstr "Debljina obruba zaglavlja"
+
+#: admin/class-wsb-brands-admin.php:550
+msgid "Header border thickness in pixels"
+msgstr "Debljina obruba u pikselima"
+
+#: admin/class-wsb-brands-admin.php:556 admin/class-wsb-brands-admin.php:559
+msgid "Header border color"
+msgstr "Boja obruba zaglavlja"
+
+#: admin/class-wsb-brands-admin.php:587
+msgid "Product listing options"
+msgstr "Postavke liste proizvoda"
+
+#: admin/class-wsb-brands-admin.php:596
+msgid "Show on product listing page"
+msgstr "Prikaži na stranici kategorije"
+
+#: admin/class-wsb-brands-admin.php:609
+msgid "Position on archive page"
+msgstr "Pozicija na stranici arhive"
+
+#: admin/class-wsb-brands-admin.php:612
+msgid "After product name"
+msgstr "Nakon naziva proizvoda"
+
+#: admin/class-wsb-brands-admin.php:613
+msgid "On top"
+msgstr "Na vrhu"
+
+#: admin/class-wsb-brands-admin.php:614
+msgid "After price"
+msgstr "Nakon cijene"
+
+#: admin/class-wsb-brands-admin.php:622
+msgid "Show label on the left side of the name on products loop"
+msgstr "Prikaži oznaku ispred naziva na stranici kategorije"
+
+#: admin/class-wsb-brands-admin.php:660
+msgid "Products"
+msgstr "Proizvodi"
+
+#: admin/class-wsb-brands-admin.php:870
+msgid "Product brands"
+msgstr "Brendovi proizvoda"
+
+#: admin/class-wsb-brands-admin.php:871
+msgid "Any brand"
+msgstr "Bilo koji brend"
+
+#: admin/class-wsb-brands-admin.php:881
+msgid ""
+"Brands that the coupon will be applied to, or that need to be in the cart in "
+"order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+"Brend na koji će kupon biti primijenjen, ili koji treba biti u košarici da "
+"bi se mogao primijeniti fiksni popust."
+
+#: includes/class-wsb-brands-carousel-widget.php:30
+msgid "Brands carousel widget"
+msgstr "Karusel widget s brendovima"
+
+#: includes/class-wsb-brands-carousel-widget.php:34
+msgid "Manufacturers carousel widget"
+msgstr "Karusel widget s proizvođačima"
+
+#: includes/class-wsb-brands-carousel-widget.php:189
+msgid "Brands carousel"
+msgstr "Karusel - brendovi"
+
+#: includes/class-wsb-brands-carousel-widget.php:193
+msgid "Manufacturers carousel"
+msgstr "Karusel - proizvođači"
+
+#: includes/class-wsb-brands-carousel-widget.php:224
+#: includes/class-wsb-brands-widget.php:87
+msgid "Title"
+msgstr "Naziv"
+
+#: includes/class-wsb-brands-carousel-widget.php:228
+msgid "Select:"
+msgstr "Odaberi:"
+
+#: includes/class-wsb-brands-carousel-widget.php:233
+msgid "Show checked"
+msgstr "Prikaži označene"
+
+#: includes/class-wsb-brands-carousel-widget.php:234
+msgid "Hide checked"
+msgstr "Sakrij označene"
+
+#: includes/class-wsb-brands-carousel-widget.php:248
+msgid "Slides to show"
+msgstr "Broj sličica za prikazati"
+
+#: includes/class-wsb-brands-carousel-widget.php:252
+msgid "Slides to scroll"
+msgstr "Broj sličica u slajdu"
+
+#: includes/class-wsb-brands-carousel-widget.php:256
+msgid "Slide delay"
+msgstr "Pauza između slajdova"
+
+#: includes/class-wsb-brands-carousel-widget.php:260
+msgid "Max logo height"
+msgstr "Visina logotipa"
+
+#: includes/class-wsb-brands-carousel-widget.php:265
+msgid "Order by:"
+msgstr "Sortiranje po:"
+
+#: includes/class-wsb-brands-carousel-widget.php:270
+msgid "Name ASC"
+msgstr "Imenu (A - Ž)"
+
+#: includes/class-wsb-brands-carousel-widget.php:271
+msgid "Name DESC"
+msgstr "Imenu (Ž - A)"
+
+#: includes/class-wsb-brands-carousel-widget.php:272
+msgid "ID ASC"
+msgstr "ID uzlazno"
+
+#: includes/class-wsb-brands-carousel-widget.php:273
+msgid "ID DESC"
+msgstr "ID silazno"
+
+#: includes/class-wsb-brands-carousel-widget.php:278
+msgid "Show name"
+msgstr "Prikaži naziv"
+
+#: includes/class-wsb-brands-carousel-widget.php:281
+#: includes/class-wsb-brands-widget.php:91
+msgid "Show products count"
+msgstr "Prikaži broj proizvoda"
+
+#: includes/class-wsb-brands-carousel-widget.php:284
+msgid "Show navigation arrows"
+msgstr "Prikaži strelice za navigaciju"
+
+#: includes/class-wsb-brands-carousel-widget.php:287
+msgid "Slide border"
+msgstr "Crta ruba"
+
+#: includes/class-wsb-brands-carousel-widget.php:290
+#: includes/class-wsb-brands-widget.php:94
+msgid "Hide empty"
+msgstr "Sakrij prazne"
+
+#: includes/class-wsb-brands-widget.php:30
+msgid "Brands widget"
+msgstr "Widget Brendovi"
+
+#: includes/class-wsb-brands-widget.php:34
+msgid "Manufacturers widget"
+msgstr "Widget proizvođača"
+
+#: public/class-wsb-brands-public.php:369
+#: public/class-wsb-brands-public.php:394
+msgid "Brand info"
+msgstr "Info o brendu"
+
+#: public/class-wsb-brands-public.php:373
+#: public/class-wsb-brands-public.php:398
+msgid "Manufacturer info"
+msgstr "Info o proizvođaču"
+
+#: public/class-wsb-brands-public.php:430
+msgid "View All Products"
+msgstr "Prikaži sve proizvode"
+
+#. Name of the plugin
+msgid "WSB Brands"
+msgstr "WSB Brendovi"
+
+#. Description of the plugin
+msgid "Brands / manufacturers plugin for Woocommerce"
+msgstr "Dodatak za upravljanje brendovima / proizvođačima u Woocommerceu"
+
+#. URI of the plugin
+msgid "https://www.webstudiobrana.com/wsb-brands-plugin-for-woocommerce/"
+msgstr "https://www.webstudiobrana.com/wsb-brands-plugin-for-woocommerce/"
+
+#. Author of the plugin
+msgid "Branko Borilovic"
+msgstr "Branko Borilovic"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/branahr"
+msgstr "https://profiles.wordpress.org/branahr"

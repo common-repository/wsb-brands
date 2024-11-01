@@ -1,0 +1,545 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-12 12:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wsb-brands.php:86
+msgid ""
+"WSB Brands plugin can not work properly without Woocommerce installed and "
+"enabled!"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:92
+msgctxt "taxonomy general name"
+msgid "Brands"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:93
+msgctxt "taxonomy singular name"
+msgid "Brand"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:94
+msgid "Search Brands"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:95
+msgid "All Brands"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:96
+msgid "Parent Brand"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:97
+msgid "Parent Brand:"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:98
+msgid "Edit Brand"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:99
+msgid "Update Brand"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:100
+msgid "Add New Brand"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:101
+msgid "New Brand Name"
+msgstr ""
+
+#. The title to be displayed in the browser window for this page.
+#: admin/class-wsb-brands-admin.php:102
+msgid "Brands"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:103
+msgid "No brands found"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:104
+msgid "Back to Brands"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:105
+msgid "View Brand"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:114
+msgctxt "taxonomy general name"
+msgid "Manufacturers"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:115
+msgctxt "taxonomy singular name"
+msgid "Manufacturer"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:116
+msgid "Search Manufacturers"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:117
+msgid "All Manufacturers"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:118
+msgid "Parent Manufacturer"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:119
+msgid "Parent Manufacturer:"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:120
+msgid "Edit Manufacturer"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:121
+msgid "Update Manufacturer"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:122
+msgid "Add New Manufacturer"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:123
+msgid "New Manufacturer Name"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:124
+msgid "Manufacturers"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:125
+msgid "No Manufacturers found"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:126
+msgid "Back to Manufacturers"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:127
+msgid "View Manufacturer"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:132
+msgctxt "slug"
+msgid "brands"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:138
+msgctxt "slug"
+msgid "manufacturers"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:179
+msgid "Select Brand"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:182
+msgid "Select Manufacturer"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:239 admin/class-wsb-brands-admin.php:274
+#: admin/class-wsb-brands-admin.php:658
+msgid "Logo"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:244 admin/class-wsb-brands-admin.php:285
+msgid "Add Logo"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:245 admin/class-wsb-brands-admin.php:286
+msgid "Remove Logo"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:251 admin/class-wsb-brands-admin.php:293
+#: public/class-wsb-brands-public.php:433
+msgid "Website"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:253 admin/class-wsb-brands-admin.php:296
+msgid "Enter full url (Example: http://www.google.com)"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:364
+msgid "General settings"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:371
+msgid "Main term"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:374
+msgid "Choose preferred term to use on the website."
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:377
+msgid "Brand"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:378
+msgid "Manufacturer"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:383
+msgid "Show in cart"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:386
+msgid "Show product brand in the cart?"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:389
+msgid "No"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:390
+msgid "Yes"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:407 admin/class-wsb-brands-admin.php:577
+msgid "Show Brand"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:408
+msgid "Brand info tab"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:411 admin/class-wsb-brands-admin.php:581
+msgid "Show Manufacturer"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:412
+msgid "Manufacturer info tab"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:417
+msgid "Single product options"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:427
+msgid "Show on a single product page"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:432 admin/class-wsb-brands-admin.php:602
+msgid "None"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:433 admin/class-wsb-brands-admin.php:601
+msgid "Name only"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:434
+msgid "Logo only"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:435 admin/class-wsb-brands-admin.php:600
+msgid "Name with link"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:436
+msgid "Logo with link"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:440 admin/class-wsb-brands-admin.php:619
+msgid "Show label"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:443
+msgid "Show label next to the name or logo"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:447 admin/class-wsb-brands-admin.php:512
+msgid "Logo height"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:449
+msgid "Logo height on single product page (in pixels)"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:455 admin/class-wsb-brands-admin.php:606
+msgid "Display position"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:458
+msgid "Where to show the brand/manufacturer on single product page?"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:461
+msgid "After short description"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:462
+msgid "After Add To Cart"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:463
+msgid "After Meta"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:464
+msgid "After sharing"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:472
+msgid "Show tab with details on single product page"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:489
+msgid "Brand page options"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:493
+msgid "Manufacturer page options"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:505
+msgid "Show logo"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:508
+msgid "Show logo in the archive header"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:514
+msgid "Logo height on archive page (in pixels)"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:520
+msgid "Logo position"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:523
+msgid "Position for logo on archive page"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:526
+msgid "Right"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:527
+msgid "Left"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:532
+msgid "Show page title"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:535
+msgid "Show title in a page header"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:539
+msgid "Header background"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:542
+msgid "Background of the page header"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:548
+msgid "Header border thickness"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:550
+msgid "Header border thickness in pixels"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:556 admin/class-wsb-brands-admin.php:559
+msgid "Header border color"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:587
+msgid "Product listing options"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:596
+msgid "Show on product listing page"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:609
+msgid "Position on archive page"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:612
+msgid "After product name"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:613
+msgid "On top"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:614
+msgid "After price"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:622
+msgid "Show label on the left side of the name on products loop"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:660
+msgid "Products"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:870
+msgid "Product brands"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:871
+msgid "Any brand"
+msgstr ""
+
+#: admin/class-wsb-brands-admin.php:881
+msgid ""
+"Brands that the coupon will be applied to, or that need to be in the cart in "
+"order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:30
+msgid "Brands carousel widget"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:34
+msgid "Manufacturers carousel widget"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:189
+msgid "Brands carousel"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:193
+msgid "Manufacturers carousel"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:224
+#: includes/class-wsb-brands-widget.php:87
+msgid "Title"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:228
+msgid "Select:"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:233
+msgid "Show checked"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:234
+msgid "Hide checked"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:248
+msgid "Slides to show"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:252
+msgid "Slides to scroll"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:256
+msgid "Slide delay"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:260
+msgid "Max logo height"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:265
+msgid "Order by:"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:270
+msgid "Name ASC"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:271
+msgid "Name DESC"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:272
+msgid "ID ASC"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:273
+msgid "ID DESC"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:278
+msgid "Show name"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:281
+#: includes/class-wsb-brands-widget.php:91
+msgid "Show products count"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:284
+msgid "Show navigation arrows"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:287
+msgid "Slide border"
+msgstr ""
+
+#: includes/class-wsb-brands-carousel-widget.php:290
+#: includes/class-wsb-brands-widget.php:94
+msgid "Hide empty"
+msgstr ""
+
+#: includes/class-wsb-brands-widget.php:30
+msgid "Brands widget"
+msgstr ""
+
+#: includes/class-wsb-brands-widget.php:34
+msgid "Manufacturers widget"
+msgstr ""
+
+#: public/class-wsb-brands-public.php:369
+#: public/class-wsb-brands-public.php:394
+msgid "Brand info"
+msgstr ""
+
+#: public/class-wsb-brands-public.php:373
+#: public/class-wsb-brands-public.php:398
+msgid "Manufacturer info"
+msgstr ""
+
+#: public/class-wsb-brands-public.php:430
+msgid "View All Products"
+msgstr ""
+
+#. Name of the plugin
+msgid "WSB Brands"
+msgstr ""
+
+#. Description of the plugin
+msgid "Brands / manufacturers plugin for Woocommerce"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.webstudiobrana.com/wsb-brands-plugin-for-woocommerce/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Branko Borilovic"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/branahr"
+msgstr ""

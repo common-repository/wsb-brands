@@ -1,0 +1,30 @@
+.form-field.term-parent-wrap {display:none;}
+.brands_settings_wrap h2 
+{
+	background: #dee4e9;
+	border: 1px solid #c6d5e4;
+	color: #546272;
+	padding: 3px 10px 5px;
+}
+.wp-picker-container input[type="text"].wp-color-picker {
+    width: 70px !important;
+    padding: 2px 6px !important;
+}
+.brand-checklist-wrap 
+{
+	height:110px;
+	overflow:scroll;
+}
+.brand-checklist-wrap ul 
+{
+	margin:0;
+	padding:0;
+}
+.brand-checklist-wrap ul li 
+{
+	display: inline-block;
+	border: 1px solid #e5e5e5;
+	margin:2px; 
+	padding:1px 3px 3px;
+	border-radius:4px;
+}
